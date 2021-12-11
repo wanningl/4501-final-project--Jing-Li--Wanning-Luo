@@ -6,6 +6,7 @@
 3. Description:
 
 Top 10:
+
 In this jupyter notebook file, we analyzed 10 of the most frequently reasons why people living in ZIP code 10019 call 311. 
 
 To be specific, we first choose all the data with the ZIP code of 10019, and then we filtered all types of complaint in the area of Zip code 10019. After that, we counted the total times of each reason of calling 311 in zip code 10019 and sorted those counts in descending order by number of incidents. At last, we selected the top 10 reasons (which is complaint type in our original data) of people living in ZIP code 10019 call 311, and we displayed the data as a Python variable called top10 in the type of pandas.Series.
